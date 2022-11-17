@@ -29,12 +29,12 @@
         "@type" : "oa:Annotation",
         "motivation" : "sc:painting",
         "resource" : {
-          "@id" : "http://127.0.0.1:8182/iiif/2/01_icon628288.jpg/full/full/0/default.jpg",
+          "@id" : "http://127.0.0.1:8887/iiif/2/01_icon628288.jpg/full/full/0/default.jpg",
           "@type" : "dctypes:Image",
           "format" : "image/jpeg",
           "service" : {
             "@context" : "http://iiif.io/api/image/2/context.json",
-            "@id" : "http://127.0.0.1:8182/iiif/2/01_icon628288.jpg",
+            "@id" : "http://127.0.0.1:8887/iiif/2/01_icon628288.jpg",
             "profile" : [ "http://iiif.io/api/image/2/level2.json", {
               "formats" : [ "jpg", "tif", "gif", "png" ],
               "maxArea" : 4645728,
@@ -60,12 +60,12 @@
         "@type" : "oa:Annotation",
         "motivation" : "sc:painting",
         "resource" : {
-          "@id" : "http://127.0.0.1:8182/iiif/2/02_icon628285.jpg/full/full/0/default.jpg",
+          "@id" : "http://127.0.0.1:8887/iiif/2/02_icon628285.jpg/full/full/0/default.jpg",
           "@type" : "dctypes:Image",
           "format" : "image/jpeg",
           "service" : {
             "@context" : "http://iiif.io/api/image/2/context.json",
-            "@id" : "http://127.0.0.1:8182/iiif/2/02_icon628285.jpg",
+            "@id" : "http://127.0.0.1:8887/iiif/2/02_icon628285.jpg",
             "profile" : [ "http://iiif.io/api/image/2/level2.json", {
               "formats" : [ "jpg", "tif", "gif", "png" ],
               "maxArea" : 4677075,
@@ -91,12 +91,12 @@
         "@type" : "oa:Annotation",
         "motivation" : "sc:painting",
         "resource" : {
-          "@id" : "http://127.0.0.1:8182/iiif/2/03_icon628279.jpg/full/full/0/default.jpg",
+          "@id" : "http://127.0.0.1:8887/iiif/2/03_icon628279.jpg/full/full/0/default.jpg",
           "@type" : "dctypes:Image",
           "format" : "image/jpeg",
           "service" : {
             "@context" : "http://iiif.io/api/image/2/context.json",
-            "@id" : "http://127.0.0.1:8182/iiif/2/03_icon628279.jpg",
+            "@id" : "http://127.0.0.1:8887/iiif/2/03_icon628279.jpg",
             "profile" : [ "http://iiif.io/api/image/2/level2.json", {
               "formats" : [ "jpg", "tif", "gif", "png" ],
               "maxArea" : 4691736,
