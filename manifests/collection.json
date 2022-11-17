@@ -5,9 +5,5 @@
   },
   "type" : "Collection",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
-  "items" : [ {
-    "@type" : "sc:Manifest",
-    "@id" : "https://gustavoluyz.github.io/test4/manifests/manifest13.json",
-    "label" : "[Click to edit label]"
-  } ]
+  "items" : [ ]
 }
