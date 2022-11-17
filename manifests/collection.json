@@ -1,0 +1,13 @@
+{
+  "id" : "https://gustavoluyz.github.io/test4/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in gustavoluyz/test4 project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://gustavoluyz.github.io/test4/manifests/manifest12.json",
+    "label" : "[Click to edit label]"
+  } ]
+}
